@@ -1,0 +1,91 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/white-chocolate-peppermint-bark-18.jpg",
+        "recipe_name": "White Chocolate Peppermint Bark",
+        "short_description": "A festive treat combining white chocolate and peppermint.",
+        "ingredients": [
+            "200 g white chocolate",
+            "50 g crushed peppermint candies",
+            "1 tsp peppermint extract"
+        ],
+        "preparing_time": "20 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/sweetandsourstickythaiboneless-3a944d.jpg",
+        "recipe_name": "Sweet and Sour Sticky Thai Boneless Ribs",
+        "short_description": "Delicious Thai-style ribs with a sweet and sour glaze.",
+        "ingredients": [
+            "500 g boneless ribs",
+            "100 ml sweet and sour sauce",
+            "2 tbsp soy sauce",
+            "1 tbsp honey",
+            "2 cloves garlic, minced"
+        ],
+        "preparing_time": "1 hr 30 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/lowfat-vegetable-lasagna-1336994.jpg",
+        "recipe_name": "Low-Fat Vegetable Lasagna",
+        "short_description": "A healthier take on the classic lasagna with fresh vegetables.",
+        "ingredients": [
+            "200 g lasagna noodles",
+            "1 cup ricotta cheese",
+            "2 cups mixed vegetables",
+            "1 cup marinara sauce",
+            "1 cup mozzarella cheese"
+        ],
+        "preparing_time": "1 hr",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/avocado-toast.jpg",
+        "recipe_name": "Avocado Toast",
+        "short_description": "A simple and healthy avocado toast.",
+        "ingredients": [
+            "2 slices whole grain bread",
+            "1 ripe avocado",
+            "Salt and pepper to taste",
+            "1 tbsp olive oil",
+            "Chili flakes (optional)"
+        ],
+        "preparing_time": "10 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/berry-smoothie.jpg",
+        "recipe_name": "Berry Smoothie",
+        "short_description": "A refreshing smoothie made with mixed berries.",
+        "ingredients": [
+            "1 cup mixed berries",
+            "1 banana",
+            "1 cup almond milk",
+            "1 tbsp honey",
+            "Ice cubes"
+        ],
+        "preparing_time": "5 min",
+        "calories": "150 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/vegetable-stir-fry.jpg",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A quick and healthy stir-fry with fresh vegetables.",
+        "ingredients": [
+            "1 cup broccoli florets",
+            "1 cup bell peppers, sliced",
+            "1 cup carrots, sliced",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "2 cloves garlic, minced"
+        ],
+        "preparing_time": "15 min",
+        "calories": "200 calories"
+    }
+]
