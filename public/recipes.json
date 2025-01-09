@@ -59,7 +59,7 @@
     },
     {
         "recipe_id": 5,
-        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/berry-smoothie.jpg",
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/white-chocolate-peppermint-bark-18.jpg",
         "recipe_name": "Berry Smoothie",
         "short_description": "A refreshing smoothie made with mixed berries.",
         "ingredients": [
@@ -74,7 +74,7 @@
     },
     {
         "recipe_id": 6,
-        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/vegetable-stir-fry.jpg",
+        "recipe_image": "https://bigoven-res.cloudinary.com/image/upload/f_auto,q_auto/t_recipe-256/avocado-toast.jpg",
         "recipe_name": "Vegetable Stir Fry",
         "short_description": "A quick and healthy stir-fry with fresh vegetables.",
         "ingredients": [
