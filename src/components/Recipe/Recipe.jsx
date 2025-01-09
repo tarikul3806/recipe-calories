@@ -1,4 +1,6 @@
 import PropTypes from 'prop-types';
+import { CiClock2 } from "react-icons/ci";
+import { AiOutlineFire } from "react-icons/ai";
 
 const Recipe = ({ recipe }) => {
     const { recipe_id, recipe_name, recipe_image, short_description, ingredients, preparing_time, calories } = recipe;
@@ -14,21 +16,23 @@ const Recipe = ({ recipe }) => {
                 <div className='px-10'>
                     <h2 className="text-2xl font-semibold pb-2">{recipe_name}</h2>
                     <p className='pb-2 border-b-2'>{short_description}</p>
-                    <p className='pb-2 border-b-2'><span className='font-semibold'>Ingredients:</span> {ingredients.length} <br />
+                    <p className='pb-2 border-b-2'><span className='py-4 font-semibold'>Ingredients:</span> {ingredients.length} <br />
                         {
                             ingredients.map(ingredient => <li key={recipe_id}>{ingredient}</li>)
                         }
                     </p>
-                    <div>
-                        <div>
+                    <div className='flex justify-between py-2'>
+                        <div className='flex items-center gap-2'>
+                            <span><CiClock2 /></span>
                             {preparing_time}
                         </div>
-                        <div>
+                        <div className='flex items-center gap-2'>
+                            <span><AiOutlineFire /></span>
                             {calories}
                         </div>
                     </div>
                     <div className="card-actions">
-                        <button className="btn btn-primary">Buy Now</button>
+                        <button className="font-semibold p-2 bg-emerald-400 rounded-3xl">Want To Cook</button>
                     </div>
                 </div>
             </div>
