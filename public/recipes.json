@@ -9,7 +9,7 @@
             "50 g crushed peppermint candies",
             "1 tsp peppermint extract"
         ],
-        "preparing_time": "20 min",
+        "preparing_time": 20,
         "calories": "220 calories"
     },
     {
@@ -24,7 +24,7 @@
             "1 tbsp honey",
             "2 cloves garlic, minced"
         ],
-        "preparing_time": "1 hr 30 min",
+        "preparing_time": 30,
         "calories": "450 calories"
     },
     {
@@ -39,7 +39,7 @@
             "1 cup marinara sauce",
             "1 cup mozzarella cheese"
         ],
-        "preparing_time": "1 hr",
+        "preparing_time": 45,
         "calories": "350 calories"
     },
     {
@@ -54,7 +54,7 @@
             "1 tbsp olive oil",
             "Chili flakes (optional)"
         ],
-        "preparing_time": "10 min",
+        "preparing_time": 10,
         "calories": "250 calories"
     },
     {
@@ -69,7 +69,7 @@
             "1 tbsp honey",
             "Ice cubes"
         ],
-        "preparing_time": "5 min",
+        "preparing_time": 5,
         "calories": "150 calories"
     },
     {
@@ -85,7 +85,7 @@
             "1 tbsp sesame oil",
             "2 cloves garlic, minced"
         ],
-        "preparing_time": "15 min",
+        "preparing_time": 15,
         "calories": "200 calories"
     }
 ]
